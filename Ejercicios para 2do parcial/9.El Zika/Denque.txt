@@ -1,0 +1,5 @@
+Nombre: Mario -- Edad: 34 
+Nombre: Silvio -- Edad: 23 
+Nombre: Carlos -- Edad: 45 
+Nombre: Sambil -- Edad: 78 
+Porcentaje de pacientes infectados de Dengue:  50.00 %

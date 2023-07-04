@@ -1,0 +1,3 @@
+VENTAS AL MAYOR: 
+Nombre del juguete: Max Steel -- Cantidad: 12 -- Total: Bs 1481.4 
+Nombre del juguete: Dados -- Cantidad: 22 -- Total: Bs 231.0 

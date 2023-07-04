@@ -1,0 +1,7 @@
+1, Juan, 3
+2, Pedro,7
+3, Luis,9
+1, Miguel, 0
+1, Omar, 8
+2, Hernesto, 10
+3, Hugo, 12

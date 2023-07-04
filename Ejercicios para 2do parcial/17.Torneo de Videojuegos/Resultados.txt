@@ -1,0 +1,21 @@
+Golpe dado por: Gaby 
+Vida del enemigo: 80.0% 
+
+Golpe dado por: Alex 
+Vida del enemigo: 60.0% 
+
+Golpe dado por: Gaby 
+Vida del enemigo: 40.0% 
+
+Golpe dado por: Alex 
+Vida del enemigo: 10.0% 
+
+Golpe dado por: Gaby 
+Vida del enemigo: 20.0% 
+
+Golpe dado por: Alex 
+Vida del enemigo: -10.0% 
+
+Ganador(a): Alex 
+Golpes dados: 3 
+Porcentaje de vida que le quedó: 20.0% 

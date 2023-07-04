@@ -1,0 +1,24 @@
+Número de nivel: 22 
+Puntaje por acertar la palabra: 2 puntos 
+Número de nivel: 22 
+Puntaje por acertar la palabra: 4 puntos 
+Número de nivel: 22 
+Puntaje: 0 puntos 
+Número de nivel: 22 
+Puntaje por acertar la palabra: 8 puntos 
+Número de nivel: 22 
+Puntaje por acertar la palabra: 4 puntos 
+Número de nivel: 22 
+Puntaje: 0 puntos 
+Número de nivel: 22 
+Puntaje: 0 puntos 
+Número de nivel: 22 
+Puntaje por acertar la palabra: 8 puntos 
+Número de nivel: 22 
+Puntaje por acertar la palabra: 8 puntos 
+Número de nivel: 22 
+Puntaje por acertar la palabra: 8 puntos 
+
+Número de jugadas: 10 
+Puntaje final del jugador: 42 puntos 
+Porcentaje de aciertos:  70.00 % 

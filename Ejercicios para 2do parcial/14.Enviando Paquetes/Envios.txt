@@ -1,0 +1,7 @@
+6
+España, Inglaterra, 12
+Venezuela, EEUU, 10
+Francia, China, 5.65
+Perú, Roma, 23.23
+India, África, 170
+Argentina, Inglaterra, 34

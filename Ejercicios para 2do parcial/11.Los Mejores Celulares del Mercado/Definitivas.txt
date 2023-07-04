@@ -1,0 +1,6 @@
+modelo: Redmi -- Puntuación def:   5.99 
+modelo: Xiaomi -- Puntuación def:   8.69 
+modelo: Blu -- Puntuación def:   5.00 
+Modelo de celular con mayor puntuación definitiva: Xiaomi 
+Modelo de celular con menor puntuación definitiva: Blu 
+Porcentaje de celulares que obtuvieron una puntuación definitiva mayor o igual a 7:  33.33 

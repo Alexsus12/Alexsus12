@@ -1,0 +1,5 @@
+MEDICIONES ACEPTADAS 
+Numero del operador: 1 -- Medicion: 1600.00 g -- Porc. de Desviación:   3.53 % 
+Numero del operador: 3 -- Medicion: 1554.94 g -- Porc. de Desviación:   0.61 % 
+Numero del operador: 2 -- Medicion: 1540.00 g -- Porc. de Desviación:   0.36 % 
+Numero del operador: 1 -- Medicion: 1550.00 g -- Porc. de Desviación:   0.29 % 

@@ -1,0 +1,7 @@
+Los Arenas, 6
+Alex, 22, 34
+Juan, 12, 56
+Pepe, 56, 12
+Luis, 29, 33
+Andrés, 12, 56
+Noel, 10, 3

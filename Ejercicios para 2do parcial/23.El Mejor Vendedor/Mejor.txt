@@ -1,0 +1,5 @@
+Nombre: Alexander de Jesús Hernández Carrera
+Max Steel, 12, 1, 123.45
+Muñeca, 30, 2, 200.15
+Dados, 22, 1, 10.5
+Teclados, 13, 2, 350

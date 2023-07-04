@@ -1,0 +1,10 @@
+ 28253456     Alma Naque    100.0    10
+ 28888888     Esteban Quito    100.0    10
+ 29999999     Elena Nito    75.0    10
+ 16666666     Lola Mento    50.0    9
+ 30000000     Elso Brao    100.0    20
+ 31111111     Elvio Lado    50.0    1
+ 33333333     Po Brecito    50.0    7
+ 35555555     Dolores Fuertes    100.0    20
+ 36666666     Armando Paredes    100.0    15
+ 37777777     Armando Guerra    75.0    13
