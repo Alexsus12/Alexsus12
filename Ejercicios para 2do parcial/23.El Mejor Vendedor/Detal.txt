@@ -1,0 +1,3 @@
+VENTAS AL DETAL: 
+Nombre del juguete: Muñeca -- Cantidad: 30 -- Total: Bs 6004.5 
+Nombre del juguete: Teclados -- Cantidad: 13 -- Total: Bs 4550.0 

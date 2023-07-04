@@ -1,0 +1,2 @@
+Nombre: Luis -- Edad: 56 
+Porcentaje de pacientes infectados de Chikungunya:  12.50 %

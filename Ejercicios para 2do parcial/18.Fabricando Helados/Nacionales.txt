@@ -1,0 +1,3 @@
+# de órdenes procesadas de tipo nacional 
+número de orden:  12 -- Fecha de fabricación: 12/10/2022 -- Tiempo de Fabricación: 120.0 minutos 
+número de orden:  23 -- Fecha de fabricación: 5/02/2019 -- Tiempo de Fabricación: 400.0 minutos 

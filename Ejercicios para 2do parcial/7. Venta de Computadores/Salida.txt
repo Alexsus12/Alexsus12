@@ -1,0 +1,5 @@
+Monto total -> Proc. Simple: $ 25000.00 
+Monto total -> Proc. Dualcore: $ 20000.00 
+Monto total -> Proc. Quadcore: $ 15388.27 
+Porcentaje de Procesadores tipo Quad Core Vendidas:  28.37 % 
+Promedio de unidades vendidas de procesadores tipo DUAL CORE por cliente:  32.00 unidades 

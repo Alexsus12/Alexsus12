@@ -1,0 +1,6 @@
+Raul, 1, 200, 5
+Ale, 2, 100, 30
+Gaby, 3, 300, 40
+Salvador, 3, 178.33, 19
+Hernando, 2, 500, 34
+Saveedra, 1, 300, 80

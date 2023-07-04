@@ -1,0 +1,3 @@
+# de órdenes procesadas de tipo importadas 
+número de orden:  34 -- Fecha de fabricación: 28/2/2022 -- Tiempo de Fabricación: 135.0 minutos 
+número de orden:  1 -- Fecha de fabricación: 2/7/2018 -- Tiempo de Fabricación: 55.0 minutos 

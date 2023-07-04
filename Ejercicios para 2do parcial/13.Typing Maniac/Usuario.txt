@@ -1,0 +1,11 @@
+Alex, 22
+1, Hola, Hola
+2, Gato, Gato
+3, Paralelepípedo, paralelepípdo
+3, Estroncio, Estroncio
+2, Senos, Senos
+1, Dar, Darr
+2, Bombón, Bombon
+3, Xilófono, Xilófono
+3, Racutan, Racutan
+3, Parangano, Parangano

@@ -1,0 +1,7 @@
+# Participantes: 4
+Juan, 1,1
+Florencio, 0,0
+Pedro, 1.5, 2
+Enrique, 2,2
+Miriam, 3.5, 4
+Lolo, 0, 0

@@ -1,0 +1,3 @@
+Nombre: Esteban -- Edad: 56 
+Nombre: José -- Edad: 23 
+Porcentaje de pacientes infectados de Zika:  25.00 %
